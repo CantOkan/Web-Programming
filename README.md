@@ -1,5 +1,8 @@
 # Web-Programming
 ---
-## web programming lecture final project
+## Web Programming lecture final project
+### Topic:BookStore
 ---
-web page can fetch information from a database with AJAX
+PHP combined with MySQL and also Ajax and Jquery are used for getting data from database
+Web page can fetch information from a database with AJAX
+
